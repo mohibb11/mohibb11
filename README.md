@@ -21,6 +21,8 @@ I'm passionate about technology and excited about the possibilities it offers fo
 
 - ⚡ Fun fact **I think it's okay to be dumb at sometimes**
 
+- <img align="right" width="300px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohib ahmed khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohib ahmed khan" height="30" width="40" /></a>
